@@ -1,4 +1,4 @@
-# 🧭 Hierarchical Menu Manager
+#  Hierarchical Menu Manager
 
 A **C# console application** that provides a reusable component for managing **hierarchical menus**.  
 It demonstrates clean software design principles such as **polymorphism**, **interfaces**, and **delegates**.
