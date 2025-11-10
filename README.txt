@@ -58,4 +58,4 @@ Main Menu
 
 ## 💡 Purpose
 
-This project demonstrates solid **Object-Oriented Programming design**, showcasing how the same functionality can be implemented using both **interfaces** and **delegates** — an excellent example for learning clean and modular C# design.
+This project demonstrates Object-Oriented Programming design, showcasing how the same functionality can be implemented using both **interfaces** and **delegates**.
