@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll.config
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\User\Desktop\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\A24 Ex04 EyalMuttath 209043587 IdoBeitOn 208538488\Ex04.Menus.Interfaces\obj\Debug\Ex04.Menus.Interfaces.pdb
