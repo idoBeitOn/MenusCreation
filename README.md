@@ -36,13 +36,21 @@ This project allows developers to easily:
 
 
 Main Menu
+
 │
+
 ├── Show Date/Time
+
 │ ├── Show Date
+
 │ └── Show Time
+
 │
+
 └── Version and Spaces
+
 ├── Show Version
+
 └── Count Spaces
 
 
